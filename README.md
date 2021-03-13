@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cobra8
-- 👀 I’m interested in all sorts of procects including webdev, gamedev as well as application development
+- 👀 I’m interested in all sorts of projects including webdev, gamedev as well as application development
 - 🌱 I’m currently studying in my bachelor degree at university
 
 <!---
