@@ -6,4 +6,4 @@
 
 ## My Projects
 - [Bachelor thesis](https://github.com/Cobra8/bachelor-thesis) working with learned indices in P4 that led to the [RMI-P4](https://github.com/Cobra8/RMI-P4) implementation.
-- Different university projects such as an implementation of a [distributed link-state routing protocol](https://github.com/Cobra8/DistributedProgramming) in Elixir visualized with TypeScript in React.
+- Different university projects such as an implementation of a [distributed link-state routing protocol](https://github.com/Cobra8/DistributedProgramming) in Elixir visualized with React in TypeScript.
